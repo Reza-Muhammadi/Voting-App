@@ -5,4 +5,4 @@ This is an implementation of a voting app with `Kubernetes`.
 ### First, create the voting-app-with-kubernetes namespace:
 ` $ kubectl create namespace voting-app-with-kubernetes `
 ### Then, use the YAML file to run your project:
-` $ kubectl apply -f voting-app.yml `
+` $ kubectl apply -f Voting-App.yml `
